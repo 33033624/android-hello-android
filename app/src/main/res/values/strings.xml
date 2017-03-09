@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="interact_message">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="default_message">点击按钮可以改变我的显示文字哦</string>
+    <string name="button_send">按钮</string>
+</resources>
